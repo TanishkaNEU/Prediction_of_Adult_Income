@@ -10,6 +10,14 @@ Welcome to the Prediction of Adult Income project! This project focuses on predi
 
 Low income levels have raised concerns globally, leading us to investigate the factors that influence an individual's income. Our objective is to classify whether an adult's income is greater than or less than $50K based on attributes such as age, education, occupation, and more.
 
+**Repository Contents**
+
+**.csv files:** Contains the dataset in csv format used for the analysis.
+
+**DM_Project_report_group_44-1.ipynb.ipynb:** Google Colab notebook (.ipynb) with all the coding and analysis performed in a cloud environment.
+
+**Final Project Report:** Includes the Final Project Report in PDF format which outlines the comprehensive analysis, methodology, results, and conclusions of the project.
+
 **Data Mining Techniques**
 
 To achieve our goal, we utilized the following data mining tasks:
